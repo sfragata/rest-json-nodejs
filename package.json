@@ -1,5 +1,5 @@
 {
-  "name": "JsonRest",
+  "name": "rest-json-nodejs",
   "version": "1.0.0",
   "author": "Silvio Fragata da Silva",
   "description": "App that return a mock json",
