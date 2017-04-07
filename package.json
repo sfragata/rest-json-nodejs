@@ -1,0 +1,12 @@
+{
+  "name": "JsonRest",
+  "version": "1.0.0",
+  "author": "Silvio Fragata da Silva",
+  "description": "App that return a mock json",
+  "dependencies" : {
+    "express"   :  ">= 4.15.2",
+    "body-parser" : ">= 1.9.2",
+    "compression" : ">= 1.6.2"
+  },
+  "main": "server.js"
+}
